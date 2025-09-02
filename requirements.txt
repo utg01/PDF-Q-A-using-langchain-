@@ -1,0 +1,10 @@
+langchain-community
+langchain
+langchain_google_genai
+PyPDF2
+Faiss-cpu
+tiktoken
+streamlit
+python-dotenv
+langchain-core
+google
