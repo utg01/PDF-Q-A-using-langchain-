@@ -11,6 +11,10 @@ A powerful Streamlit-based application that allows you to upload PDF documents a
 - **Real-time Responses**: Get instant answers to your questions
 - **User-friendly Interface**: Clean and simple Streamlit-based UI
 
+## ⚠️ Important Note
+
+**The application may show an error when you first start it, but this is normal!** The error occurs because the application tries to process the PDF before one is uploaded. Simply upload a PDF file and ask your question - the application will work perfectly after that.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -84,9 +88,6 @@ A powerful Streamlit-based application that allows you to upload PDF documents a
 - "Explain the methodology used"
 - "What data is presented in the document?"
 
-## ⚠️ Important Note
-
-**The application may show an error when you first start it, but this is normal!** The error occurs because the application tries to process the PDF before one is uploaded. Simply upload a PDF file and ask your question - the application will work perfectly after that.
 
 ## 🛠️ Technical Details
 
