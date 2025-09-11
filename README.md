@@ -180,14 +180,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Google Gemini](https://ai.google.dev/) for the AI capabilities
 - [FAISS](https://faiss.ai/) for vector search
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed information about your problem
-
----
 
 **Happy PDF Questioning! 🎉**
